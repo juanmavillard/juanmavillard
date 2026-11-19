@@ -2,37 +2,39 @@
 
 I'm a **Software Engineer** based in Madrid, Spain, with a Bachelor's degree in Computer Science and Engineering and a Master's degree in Informatics Engineering from **Universidad Carlos III de Madrid (UC3M)**.
 
-I'm interested in **software development, artificial intelligence, data, and emerging technologies**. I enjoy learning how different systems work, exploring new technical challenges, and turning ideas into working software.
+I'm interested in **software development, artificial intelligence, data, and emerging technologies**. I enjoy exploring different technologies, understanding how systems work, and building projects that solve real problems.
 
-I'm particularly interested in the intersection of **technology and entertainment**, including video games, cinema, books, and comics.
+I'm particularly drawn to the intersection of **technology and entertainment**, including video games, cinema, books, and comics.
 
 I'm currently looking for **junior software engineering opportunities** where I can contribute, collaborate, and continue growing professionally.
 
-## 🎓 Education & technical background
+## 🎓 Education & Technical Background
 
-My academic background combines a **bilingual Bachelor's degree (240 ECTS)** with an **official professional Master's degree (90 ECTS)** in Informatics Engineering at UC3M. I also spent an Erasmus+ year studying Computer Science at the **University of Lincoln (UK)**.
+My academic background includes:
 
-Throughout both degrees, I've completed numerous coursework projects and practical assignments across different areas of computer science and engineering, including:
+- **[Bachelor in Computer Science and Engineering](https://www.uc3m.es/bachelor-degree/computer-science)** — UC3M (2020–2024). Bilingual programme, 240 ECTS.
+- **[Master in Informatics Engineering](https://www.uc3m.es/master/informatics-engineering)** — UC3M (2024–2026). Official professional Master's programme, 90 ECTS.
+- **[Erasmus+ in Computer Science](https://www.lincoln.ac.uk/course/cmpcmsub/)** — University of Lincoln, UK (2022–2023).
 
-- **Software Engineering:** programming, algorithms, software design, databases, testing, and software quality.
+Throughout my studies, I've completed numerous academic projects and practical assignments across different areas of computer science and engineering, including:
+
+- **Software Engineering:** programming, algorithms, software architecture, databases, testing, and software quality.
 - **Systems & Infrastructure:** operating systems, computer architecture, networking, distributed systems, and high-performance computing.
-- **Artificial Intelligence & Data:** machine learning, neural networks, data analysis, Big Data, and applied AI.
+- **AI & Data:** artificial intelligence, machine learning, neural networks, data analysis, and Big Data.
 - **Cybersecurity:** cryptography, computer security, and cybersecurity systems.
 - **Other areas:** human-computer interaction, immersive systems, IoT, and IT project management.
 
-This broad background has given me the opportunity to explore different fields, even those outside my current professional interests.
+This broad technical foundation has allowed me to explore different fields and develop an adaptable approach to problem-solving.
 
-### Technologies I've worked with
+### 🛠️ Technologies I've worked with
 
-**Languages:** Python · Java · C · C++ · C# · JavaScript · SQL
+- **Languages:** Python · Java · C · C++ · C# · JavaScript · SQL
+- **Development & Tools:** FastAPI · React · Node.js · Git · Docker · Linux · Unity
+- **AI & Data:** PyTorch · scikit-learn · pandas · NumPy · LLMs · RAG · ETL
 
-**Frameworks & tools:** FastAPI · React · Node.js · Git · Docker · Linux · Unity
+These include technologies I've used in academic, professional, and personal projects, with varying levels of experience.
 
-**AI & Data:** PyTorch · scikit-learn · pandas · NumPy · LLMs · RAG · ETL
-
-These reflect technologies I've used in academic, professional, or personal work, with varying levels of experience.
-
-## 💼 Professional experience
+## 💼 Professional Experience
 
 **Educaria — AI Engineering Intern**
 
@@ -42,9 +44,9 @@ Worked on an observability dashboard for LLM- and RAG-based systems, developing 
 
 Gained experience in technical troubleshooting, log analysis, API integrations, software demonstrations, and collaboration with R&D teams.
 
-## 🚀 Featured projects
+## 🚀 Featured Projects
 
-### [SAGE — LLM Function Calling Benchmark](https://github.com/juanmavillard/sage-tfm)
+### SAGE — LLM Function Calling Benchmark](https://github.com/juanmavillard/sage-tfm
 
 **Master's Thesis | Python · LLMs · Evaluation**
 
@@ -54,7 +56,7 @@ Includes a synthetic benchmark of 210 cases, automated validation and evaluation
 
 [Explore the repository](https://github.com/juanmavillard/sage-tfm)
 
-### [Chrono Clones — 3D Puzzle Game](https://github.com/juanmavillard/chrono-clones-tfg)
+### Chrono Clones — 3D Puzzle Game
 
 **Bachelor's Thesis | Unity · C# · Game Development**
 
@@ -64,15 +66,17 @@ Includes eight puzzle levels, non-linear progression, a shared time system, and 
 
 [Explore the repository](https://github.com/juanmavillard/chrono-clones-tfg) · [Download the Windows demo](https://github.com/juanmavillard/chrono-clones-tfg/releases)
 
-## 🎮 Beyond coding
+## 🎮 Beyond Coding
 
-My interests in technology extend into creative and entertainment projects.
+My interests also extend into creative projects related to culture and entertainment.
 
-I've created video game content for **V de Burrito**, directed and produced the cinema podcast **Generación Zine**, and interviewed comic book creators at **Metrópoli Cómic Con**.
+- **[V de Burrito](https://www.youtube.com/@vdeburrito):** Created video game content, including scripting, recording, editing, and publishing videos.
+- **[Generación Zine](https://open.spotify.com/show/27SvgpHkRTZa09puxyEeTo?si=a8e031b579914eb0):** Founded and directed a podcast covering cinema, television, video games, comics, and popular culture.
+- **[Metrópoli Cómic Con](https://www.youtube.com/watch?v=ejpKH42XICw):** Interviewed comic book creators during the 2023 event, contributing to content production and on-camera presentations.
 
 These experiences have also helped me develop communication, teamwork, planning, and creative problem-solving skills.
 
-## 📫 Let's connect
+## 📫 Let's Connect
 
 I'm open to junior opportunities in software development, applied AI, data, and related fields.
 
