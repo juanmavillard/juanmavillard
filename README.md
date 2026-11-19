@@ -46,7 +46,7 @@ Gained experience in technical troubleshooting, log analysis, API integrations, 
 
 ## 🚀 Featured Projects
 
-### SAGE — LLM Function Calling Benchmark](https://github.com/juanmavillard/sage-tfm
+### SAGE — LLM Function Calling Benchmark]
 
 **Master's Thesis | Python · LLMs · Evaluation**
 
