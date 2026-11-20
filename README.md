@@ -4,7 +4,7 @@ I'm a **Software Engineer** based in Madrid, Spain, with a Bachelor's degree in 
 
 I'm interested in **software development, artificial intelligence, data, and emerging technologies**. I enjoy exploring different technologies, understanding how systems work, and building projects that solve real problems.
 
-I'm particularly drawn to the intersection of **technology and entertainment**, including video games, cinema, books, and comics.
+I'm particularly drawn to the intersection of **technology and entertainment**, including video games, board games, cinema, books, and comics.
 
 I'm currently looking for **junior software engineering opportunities** where I can contribute, collaborate, and continue growing professionally.
 
@@ -29,8 +29,10 @@ This broad technical foundation has allowed me to explore different fields and d
 ### 🛠️ Technologies I've worked with
 
 - **Languages:** Python · Java · C · C++ · C# · JavaScript · SQL
-- **Development & Tools:** FastAPI · React · Node.js · Git · Docker · Linux · Unity
+- **Application Development:** FastAPI · React · Node.js · Electron · Unity
 - **AI & Data:** PyTorch · scikit-learn · pandas · NumPy · LLMs · RAG · ETL
+- **Testing & Storage:** Playwright · IndexedDB
+- **Tools & Platforms:** Git · GitHub Actions · Docker · Linux
 
 These include technologies I've used in academic, professional, and personal projects, with varying levels of experience.
 
@@ -65,6 +67,16 @@ A first-person 3D puzzle game featuring three time-related clone mechanics: Stat
 Includes eight puzzle levels, non-linear progression, a shared time system, and an evaluation with 15 players.
 
 [Explore the repository](https://github.com/juanmavillard/chrono-clones-tfg) · [Download the Windows demo](https://github.com/juanmavillard/chrono-clones-tfg/releases)
+
+### Grimorio — Offline Storyteller Companion
+
+**Personal Project | JavaScript · IndexedDB · Electron**
+
+An offline companion for running in-person **Blood on the Clocktower** games, supporting player setup, secret role dealing, guided night and day phases, voting, and separate public and private views.
+
+Built with modular JavaScript, transactional local storage, revision-based conflict detection, undo/redo, and data recovery. Includes automated tests for game logic, persistence, privacy, and browser workflows.
+
+[Explore the repository](https://github.com/juanmavillard/grimorio) · [Try the web demo](https://juanmavillard.github.io/grimorio/)
 
 ## 🎮 Beyond Coding
 
